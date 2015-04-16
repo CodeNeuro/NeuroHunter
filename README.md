@@ -14,3 +14,9 @@ To run the unit tests
 View example analysis notebooks:
 - Loading images and sources for [comparison](http://nbviewer.ipython.org/github/codeneuro/neurofinder/blob/master/notebooks/creating-images-and-sources.ipynb)
 - Creating images and sources for [testing](http://nbviewer.ipython.org/github/codeneuro/neurofinder/blob/master/notebooks/loading-images-and-sources.ipynb)
+- 
+
+[codeneurobot was here]
+[codeneurobot was here again]
+[codeneurobot was here again again]
+[codeneurobot was here again again again]
