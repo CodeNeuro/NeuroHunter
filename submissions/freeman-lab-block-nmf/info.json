@@ -1,0 +1,4 @@
+{
+	"algorithm": "BlockNMF",
+	"description": "Non-negative matrix factorization"
+}
